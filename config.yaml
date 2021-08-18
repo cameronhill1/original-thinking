@@ -2,13 +2,13 @@ baseURL: http:/cameronhill1.github.io
 languageCode: en-us
 title: Vanilla
 theme: vanilla-bootstrap-hugo-theme
-#googleAnalytics: UA-123456789-1
+googleAnalytics: G-FBJN3M651Z
 
 taxonomies:
-  #tag: tags
+  tag: originalthinking
 
 permalinks:
-  #post: /:filename/
+  post: /:filename/
 
 # See https://feathericons.com/
 # The value of pre is the icon name
