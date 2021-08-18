@@ -1,14 +1,14 @@
-baseURL: https://example.com
+baseURL: http:/cameronhill1.github.io
 languageCode: en-us
 title: Vanilla
 theme: vanilla-bootstrap-hugo-theme
-googleAnalytics: UA-123456789-1
+#googleAnalytics: UA-123456789-1
 
 taxonomies:
-  tag: tags
+  #tag: tags
 
 permalinks:
-  post: /:filename/
+  #post: /:filename/
 
 # See https://feathericons.com/
 # The value of pre is the icon name
